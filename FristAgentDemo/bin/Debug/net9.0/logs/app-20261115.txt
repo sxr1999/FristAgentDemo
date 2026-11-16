@@ -1,0 +1,2 @@
+[2026-11-15 16:56:12.654 INF] 模型输入System.Collections.Generic.List`1[OpenAI.Chat.ChatMessage]
+[2026-11-15 16:56:14.195 INF] 模型输出 OpenAI.Chat.ChatCompletion
